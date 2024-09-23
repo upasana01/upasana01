@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I am Upasana 👋
 
 <!--
 **upasana01/upasana01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![upasana01's Stats](https://github-readme-stats.vercel.app/api?username=upasana01&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+
+## 📬 Get in Touch
+
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/upasanachaudhari/)
+- Reach out to me at [Gmail](mailto:chaudhariupasana@gmail.com)

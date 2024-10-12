@@ -18,13 +18,6 @@ Here are some ideas to get you started:
 
 👨‍💻 Check out [My Portfolio](https://upasanachaudhari.netlify.app/)
 
-<h3 align="left">How to reach out to me </h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/upasanachaudhari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soham nandi" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/upasanachaudhari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="valar_morghulis_21" height="30" width="40" /></a>
-</p>
-
-
 #### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=upasana01&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=upasana01&theme=vue-dark&hide_border=false)<br/>
@@ -32,7 +25,8 @@ Here are some ideas to get you started:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=upasana01&icon=2&color=0)](https://visitcount.itsvg.in)
-## 📬 Get in Touch
 
+
+## 📬 Get in Touch
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/upasanachaudhari/)
 - Reach out to me at [Gmail](mailto:chaudhariupasana@gmail.com)

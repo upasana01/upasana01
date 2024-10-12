@@ -1,5 +1,3 @@
-## Hi there, I am Upasana 👋
-
 <!--
 **upasana01/upasana01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1> Hi there, I am Upasana 👋 </h1>
+<h3> Professional Data Scientist and Analyst Programmer with over 4 years of experience in data science, machine learning, and data analysis. Proven track record of leading impactful projects in data centralization, time series forecasting, natural language processing, and predictive analytics across academia and industry. Experienced in implementing scalable data solutions, fine-tuning large language models, and optimizing performance for data-driven applications. Proficient in a wide range of tools, programming languages, and frameworks including Python, PostgreSQL, TensorFlow, and AWS. I am passionate about leveraging advanced analytics and AI to drive business outcomes and operational improvements. </h3>
+
+- 👨‍💻 Check out [My Portfolio](https://upasanachaudhari.netlify.app/)
+
+<h3 align="left">How to reach out to me </h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/upasanachaudhari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soham nandi" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/upasanachaudhari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="valar_morghulis_21" height="30" width="40" /></a>
+</p>
 
 
 #### 📊 GitHub Stats:

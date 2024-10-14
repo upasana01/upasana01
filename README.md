@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 -->
 
 <h2> Hi there, I am Upasana 👋 </h2>
-<h4> 
+ 
   - Professional Data Scientist and Analyst Programmer with over 4 years of experience in data science, machine learning, and data analysis. 
   - Proven track record of leading impactful projects in data centralization, time series forecasting, natural language processing, and predictive analytics across academia and industry. 
   - Experienced in implementing scalable data solutions, fine-tuning large language models, and optimizing performance for data-driven applications. 
   - Proficient in a wide range of tools, programming languages, and frameworks including Python, PostgreSQL, TensorFlow, and AWS. 
-  - I am passionate about leveraging advanced analytics and AI to drive business outcomes and operational improvements. </h4>
+  - I am passionate about leveraging advanced analytics and AI to drive business outcomes and operational improvements. 
 
 👨‍💻 Check out [My Portfolio](https://upasanachaudhari.netlify.app/)
 

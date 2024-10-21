@@ -22,13 +22,24 @@ Here are some ideas to get you started:
 - 🔎 Proficient in a wide range of tools, programming languages, and frameworks including Python, PostgreSQL, TensorFlow, and AWS. 
 - 📋 I am passionate about leveraging advanced analytics and AI to drive business outcomes and operational improvements. 
 - 🎓 I hold an MS in Computer Science, specializing in Machine Learning and Artificial Intelligence. In addition to my recent degree, I also hold both a Bachelor's and a Master's degree in IT and Big Data Analytics.
-  
-👨‍💻 Check out [My Portfolio](https://upasanachaudhari.netlify.app/)
 
-[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/upasanachaudhari/)
-&nbsp; | &nbsp; 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="14"> Email](mailto:chaudhariupasana@gmail.com)
-&nbsp
+
+### Core Competencies 💡
+- 💻 Code: Python, SQL, R
+- 📈 Analysis: Excel, Power Bi, Tableau
+- 💭 Cloud: AWS S3, GCP/BigQuery, Jira/Confluence
+- 🛠 Backend: Data Cleaning, Data Mining, Machine Learning, Django
+- 📋 Frontend: Dashboarding, Stakeholder Presentations
+
+
+## 📬 Get in Touch
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/upasanachaudhari/)
+- Reach out to me at [Gmail](mailto:chaudhariupasana@gmail.com)
+
+## 👨‍💻 Check out My Porfolio
+[My Portfolio](https://upasanachaudhari.netlify.app/)
+
+
 #### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=upasana01&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=upasana01&theme=vue-dark&hide_border=false)<br/>
@@ -38,6 +49,3 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=upasana01&icon=2&color=0)](https://visitcount.itsvg.in)
 
 
-## 📬 Get in Touch
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/upasanachaudhari/)
-- Reach out to me at [Gmail](mailto:chaudhariupasana@gmail.com)

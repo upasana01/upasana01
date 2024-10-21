@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2> Hi there, I am Upasana 👋 </h2>
+## Hi there, I am Upasana 👋
 
  ### About Me ✨
 - 🏦 Professional Data Scientist and Analyst Programmer with over 4 years of experience in data science, machine learning, and data analysis. 
@@ -32,15 +32,15 @@ Here are some ideas to get you started:
 - 📋 Frontend: Dashboarding, Stakeholder Presentations
 
 
-## 📬 Get in Touch
+### 📬 Get in Touch
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/upasanachaudhari/)
 - Reach out to me at [Gmail](mailto:chaudhariupasana@gmail.com)
 
-## 👨‍💻 Check out My Porfolio
+### 👨‍💻 Check out My Porfolio
 [My Portfolio](https://upasanachaudhari.netlify.app/)
 
 
-#### 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=upasana01&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=upasana01&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=upasana01&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
